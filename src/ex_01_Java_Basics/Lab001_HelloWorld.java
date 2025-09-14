@@ -6,7 +6,8 @@ public class Lab001_HelloWorld {
         int k = 6;
         System.out.println("Hello World");
         System.out.println(j);
-        System.out.print(k);
+        System.out.println(k);
+        System.out.println("j and k");
 
     }
 }
