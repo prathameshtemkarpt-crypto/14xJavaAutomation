@@ -3,7 +3,9 @@ package ex_01_Java_Basics;
 public class Lab004_Table_of_9 {
     public static void main(String[] args) {
         int table = 9;
-        System.out.printf("%d x 1 = %d\n",table, table*1);
+        System.out.println("The table of 9:");
+        System.out.println();
+        System.out.printf("%d x 1 = %d\n",table, table*1); //Using \n to print the results to the next line
         System.out.printf("%d x 2 = %d\n",table, table*2);
         System.out.printf("%d x 3 = %d\n",table, table*3);
         System.out.printf("%d x 4 = %d\n",table, table*4);
