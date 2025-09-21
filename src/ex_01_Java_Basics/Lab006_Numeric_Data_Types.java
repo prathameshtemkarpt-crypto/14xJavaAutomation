@@ -9,7 +9,7 @@ public class Lab006_Numeric_Data_Types {
         char c = 'a';
         char c1 = 'A';
 
-        long phone = 7977495428l;
+
         long phone2 = 917977495428L;
 
         float f = 3.14f;
@@ -24,13 +24,12 @@ public class Lab006_Numeric_Data_Types {
         System.out.println("The value of int: " +i);
         System.out.println("The value of char: " +c);
         System.out.println("The value of char1: " +c1);
-        System.out.println("The value of long: " +phone);
         System.out.println("The value of long2: " +phone2);
         System.out.println("The value of float: " +f);
         System.out.println("The value of float2: " +f2);
         System.out.println("The value of double: " +d);
         System.out.println("The value of double1: " +d1);
-        System.out.println("The value of double2: " +d2);
+        System.out.println("The value of double2 : " +d2);
 
 
     }
