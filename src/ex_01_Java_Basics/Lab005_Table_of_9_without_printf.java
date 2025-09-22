@@ -4,7 +4,7 @@ public class Lab005_Table_of_9_without_printf {
     public static void main(String[] args) {
         int table = 9;
         System.out.println("The table of 9:\n");
-        System.out.println("9 x 1 = "+ table*1);
+        System.out.println("9 x 1 = "+  table*1);
         System.out.println("9 x 2 = "+ table*2);
         System.out.println("9 x 3 = "+ table*3);
         System.out.println("9 x 4 = "+ table*4);
